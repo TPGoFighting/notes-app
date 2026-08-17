@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AI工程阅读笔记</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_articles">文章总览</string>
+    <string name="nav_timeline">阅读时间线</string>
+    <string name="nav_glossary">概念词典</string>
+    <string name="nav_about">关于</string>
+    <string name="sync_latest">同步最新</string>
+    <string name="syncing">正在同步...</string>
+    <string name="sync_success">同步完成，已是最新内容</string>
+    <string name="sync_failed">同步失败，已载入本地缓存</string>
+</resources>

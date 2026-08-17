@@ -1,0 +1,6 @@
+{
+  "name": "AI工程阅读笔记",
+  "description": "TP 的专属 AI 开发风向标 - 7 个分类，43+ 篇 AI 工程阅读笔记，包含要点摘录、概念标注与原文链接，支持每日云端内容同步与离线浏览。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
